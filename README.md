@@ -10,7 +10,7 @@ RESTful webservice created using Python Flask and SQLite for a Blogging website.
 ### Web Application
 
 <div align='center'>
-<img src = 'template/website.JPG' height="400px">
+<img src = 'templates/website.JPG' height="400px">
 </div>
 
 ### Steps of Code Execution
